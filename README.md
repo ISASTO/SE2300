@@ -27,8 +27,6 @@ CONTROLS:
 Mouse and keyboard
 
 NOTES:
-Maze size will scale to fit in the window no matter what size you select.
-
-Each time you click generate, you get a new randomly generated maze, even if you don't select a new size.
-
-If you think it's impossible, type "solve" and you'll be shown the solution!
+- Maze size will scale to fit in the window no matter what size you select.
+- Each time you click generate, you get a new randomly generated maze, even if you don't select a new size.
+- If you think it's impossible, type "solve" and you'll be shown the solution!
